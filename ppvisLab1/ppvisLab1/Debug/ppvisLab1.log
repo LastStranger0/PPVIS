@@ -1,0 +1,3 @@
+﻿  dict.cpp
+C:\Users\anton\source\repos\ppvisLab1\ppvisLab1\dict.cpp(127): warning C4715: dictionary::search: значение возвращается не при всех путях выполнения
+  ppvisLab1.vcxproj -> C:\Users\anton\source\repos\ppvisLab1\Debug\ppvisLab1.exe

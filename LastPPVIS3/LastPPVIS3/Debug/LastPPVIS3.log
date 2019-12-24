@@ -1,0 +1,8 @@
+﻿  LastPPVIS3.cpp
+C:\Users\anton\source\repos\LastPPVIS3\LastPPVIS3\LastPPVIS3.cpp(64,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\anton\source\repos\LastPPVIS3\LastPPVIS3\LastPPVIS3.cpp(71,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\anton\source\repos\LastPPVIS3\LastPPVIS3\LastPPVIS3.cpp(79,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\anton\source\repos\LastPPVIS3\LastPPVIS3\LastPPVIS3.cpp(99,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\anton\source\repos\LastPPVIS3\LastPPVIS3\LastPPVIS3.cpp(182,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\anton\source\repos\LastPPVIS3\LastPPVIS3\LastPPVIS3.cpp(205,6): warning C4101: teg: неиспользованная локальная переменная
+  LastPPVIS3.vcxproj -> C:\Users\anton\source\repos\LastPPVIS3\Debug\LastPPVIS3.exe
